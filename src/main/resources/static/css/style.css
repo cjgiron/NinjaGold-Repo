@@ -1,0 +1,15 @@
+/* * {
+	outline: solid red 1px;
+} */
+
+.box {
+	outline: solid black 1px;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	justify-content: space-around;
+}
